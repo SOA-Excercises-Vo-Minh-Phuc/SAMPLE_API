@@ -22,3 +22,5 @@
   - Tích hợp Swagger để kiểm thử và hiển thị API trực quan.
 - API hoạt động ổn định với dữ liệu từ MongoDB và được truy cập qua Swagger tại `https://localhost:7295/swagger/index.html`.
 
+![Alt text](https://github.com/SOA-Excercises-Vo-Minh-Phuc/SAMPLE_API/blob/master/1.png)
+![Alt text](https://github.com/SOA-Excercises-Vo-Minh-Phuc/SAMPLE_API/blob/master/2.png)
